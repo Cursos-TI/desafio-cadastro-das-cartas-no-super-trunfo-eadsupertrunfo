@@ -9,11 +9,11 @@
 int main() {
     printf("Desafio Super Trunfo - Paises!\n");
     int codigodacidade = 10;
-    char nome[20] = nome;
-    int populacao = "Populaçao";
-    float area = "Área";
-    double pib = "PIB";
-    int numerodepontosturisticos = "Número de Pontos Turísticos";
+    char nome[20] = Fortaleza;
+    int populacao = "2.574.412";
+    float area = "312,353 km²";
+    char pib[23] = "R$ 73.436.128.48 reais";
+    int numerodepontosturisticos = "10";
 
     printf("Código da Cidade: %d", codigodacidade);
     printf("Nome: %s\n", nome);
